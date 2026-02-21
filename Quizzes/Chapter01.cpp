@@ -3,7 +3,8 @@
 
 
 // Solution for chapter 1 quiz
-void quiz01Solution() {
+void quiz01Solution()
+{
     std::cout << "Quiz 1 solution is running...\n";
 
     std::cout << "Enter an Integer: ";
