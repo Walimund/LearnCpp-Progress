@@ -7,7 +7,7 @@ namespace Chapter05 {
 	std::string getName(int num);
 	int getAge(std::string aName);
 
-	// Solution for chapter 5.8 quiz
+	// Solution for CH 5.8 quiz
 	void quiz05Part1Solution()
 	{
 		std::cout << "Solution for CH 5.8 quiz is running...\n";
