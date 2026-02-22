@@ -14,6 +14,7 @@ int main()
 	//Chapter04::quiz04Part2Solution();
 	//Chapter05::quiz05Part1Solution();
 	//Chapter05::quiz05Part2Solution();
-	Chapter06::quiz06Part1Solution();
+	//Chapter06::quiz06Part1Solution();
+	Chapter06::quiz06Part2Solution();
 	return 0;
 }

@@ -3,6 +3,7 @@
 
 namespace Chapter06 {
 	void quiz06Part1Solution();
+	void quiz06Part2Solution();
 }
 
 #endif
