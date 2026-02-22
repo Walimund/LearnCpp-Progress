@@ -2,6 +2,7 @@
 #include "Quizzes/Chapter02.h"
 #include "Quizzes/Chapter04.h"
 #include "Quizzes/Chapter05.h"
+#include "Quizzes/Chapter06.h"
 
 int main()
 {
@@ -13,6 +14,6 @@ int main()
 	//Chapter04::quiz04Part2Solution();
 	//Chapter05::quiz05Part1Solution();
 	//Chapter05::quiz05Part2Solution();
-
+	Chapter06::quiz06Part1Solution();
 	return 0;
 }
