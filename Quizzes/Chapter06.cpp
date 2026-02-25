@@ -72,4 +72,5 @@ namespace Chapter06 {
 	{
 		return (quantity == 1) ? "apple" : "apples";
 	}
+	// END of functions for CH 6.x
 }
