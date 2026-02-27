@@ -4,6 +4,7 @@
 
 namespace ChapterO {
 	void quizOPart1Solution();
+	void quizOPart2Solution();
 }
 
 #endif
