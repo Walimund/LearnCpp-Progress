@@ -8,7 +8,7 @@ A place to track learning progress
 - [x] Chapter 4
 - [x] Chapter 5
 - [x] Chapter 6
-- [ ] Chapter O - Bitwise
+- [x] Chapter O - Bitwise
 - [ ] Chapter 7
 - [ ] Chapter 8
 - [ ] Chapter 9
