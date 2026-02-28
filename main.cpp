@@ -18,6 +18,7 @@ int main()
 	//Chapter06::quiz06Part1Solution();
 	//Chapter06::quiz06Part2Solution();
 	//ChapterO::quizOPart1Solution();
-	ChapterO::quizOPart2Solution();
+	//ChapterO::quizOPart2Solution();
+	ChapterO::quizOPart3Solution();
 	return 0;
 }
